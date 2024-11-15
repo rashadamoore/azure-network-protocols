@@ -33,7 +33,10 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 <h2>Actions and Observations</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  
+![Screenshot (28)](https://github.com/user-attachments/assets/976b51b8-d326-43c2-ada9-9ea2fdf67984)
+
+
 </p>
 <p>
 <h4><strong>Use Network Watcher’s Packet Capture</strong></h4>
