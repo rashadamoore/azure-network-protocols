@@ -51,7 +51,10 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  
+![Screenshot (27)](https://github.com/user-attachments/assets/0d66622d-efa7-4332-9d21-04eb43cd441d)
+
+
 </p>
 <p>
 <h4><strong>Install Wireshark Directly on the VM</strong></h4>
