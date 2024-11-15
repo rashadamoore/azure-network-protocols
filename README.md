@@ -45,7 +45,10 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  
+![Screenshot (31)](https://github.com/user-attachments/assets/9bbbeac0-9f91-4478-b064-1d984d4ee581)
+
+
 </p>
 <p>
 <h4><strong>Use a Jump Box (Proxy VM)</strong></h4>
