@@ -68,7 +68,10 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 </p>
 <br />
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  
+![Screenshot (32)](https://github.com/user-attachments/assets/69e3ea6d-86b4-46cd-88cd-cec3865f53cf)
+
+
 </p>
 <p>
 <h4><strong>Use NSG Flow Logs</strong></h4>
